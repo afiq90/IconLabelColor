@@ -3,7 +3,7 @@ Name: IconLabelColor
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Jailbreak tweak to change the text color of the icon label
 Maintainer: Afiq
 Author: Afiq
 Section: Tweaks
